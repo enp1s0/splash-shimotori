@@ -14,4 +14,4 @@ let g:splash#path="path/to/shimotori.txt"
 
 
 ## 画像
-![]("image.png")
+![]("./image.png")
