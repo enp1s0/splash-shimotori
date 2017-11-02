@@ -11,3 +11,7 @@ let g:splash#path="path/to/shimotori.txt"
 ```
 
 を追記すればOK
+
+
+## 画像
+![]("image.png")
